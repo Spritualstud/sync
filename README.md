@@ -1,1 +1,1 @@
-# sync
+# synchttps://github.com/Spritualstud/sync/blob/<SHA>/README.md
